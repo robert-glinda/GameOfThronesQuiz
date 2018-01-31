@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Game Of Thrones Quiz</string>
+    <string name="number">0</string>
+    <string name="buttonPlus">+</string>
+    <string name="buttonMinus">-</string>
+    <string name="question1">How many times has Beric Dondarrion been brought back to life?</string>
+    <string name="question2">Prince Oberyn Martell is nicknamed the "Red Viper" because of his combat and:</string>
+    <string name="question3">What are the names of the six direwolves of the Lord Eddard Stark`s children? Choose all correct answers.</string>
+    <string name="question4">To which house belongs the depicted sygil? Please type the answer below.</string>
+    <string name="question2_button1">Pride in drawing blood first</string>
+    <string name="question2_button2">Knowledge of poisons</string>
+    <string name="question2_button3">Nighttime attacks</string>
+    <string name="question2_button4">Ruby-coloured armor</string>
+    <string name="question3_checkbox1">Grey Wind (Robb`s direwolf)</string>
+    <string name="question3_checkbox2">Rexo (Sansa`s direwolf)</string>
+    <string name="question3_checkbox3">Nymeria (Arya`s direwolf)</string>
+    <string name="question3_checkbox4">Lady (Sansa`s direwolf)</string>
+    <string name="question3_checkbox5">Killerdog (Robb`s direwolf)</string>
+    <string name="question3_checkbox6">Summer (Bran`s direwolf)</string>
+    <string name="question3_checkbox7">Shaggydog (Rickon`s direwolf)</string>
+    <string name="question3_checkbox8">Ghost (Jon Snow`s direwolf)</string>
+    <string name="question4_hint">Type your answer here.</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="incorrectAnswer1">Incorrect - the right answer is 6</string>
+    <string name="incorrectAnswer4">Incorrect - the right answer is Stark</string>
+</resources>
